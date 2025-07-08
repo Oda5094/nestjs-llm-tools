@@ -1,6 +1,6 @@
 {
   "name": "nestjs-llm-tools",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "A NestJS module that provides decorators and utilities for defining LLM function calling tools using TypeScript decorators.",
   "main": "src/index.ts",
   "scripts": {
